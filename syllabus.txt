@@ -1,3 +1,4 @@
 Day 1 morning: bash command line
 Day 1 afternoon: intro to python
 Day 2 morning: continue python
+Day 2 afternoon: git version control
